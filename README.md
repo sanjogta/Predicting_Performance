@@ -1,4 +1,4 @@
-# Predicting_Student_Performance
+# Predicting_Student_Performance (Supervised Learning, classification Problem)
 
 ### This is a problem in the Kaggle competetion. I've tried predicting student performance using Scikit Learn's DecisionTreeClassifier model.
 ### Using the DecisionTreeClassifier, I'm able to get an average accyraacy of 65.84% on the validation set.
